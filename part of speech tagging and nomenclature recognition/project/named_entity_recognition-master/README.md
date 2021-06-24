@@ -1,5 +1,5 @@
 # 中文命名实体识别
-
+本项目的源链接为：https://github.com/luopeixiang/named_entity_recognition
 
 
 ## 数据集
