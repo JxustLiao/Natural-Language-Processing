@@ -1,4 +1,5 @@
 # ChineseNER
+本项目的源链接为：https://github.com/buppt/ChineseNER
 本项目使用
 + python 2.7（已修改为python3可运行版本）
 + tensorflow 1.7.0
