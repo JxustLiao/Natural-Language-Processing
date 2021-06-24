@@ -1,5 +1,7 @@
 [**中文说明**](https://github.com/ymcui/Chinese-BERT-wwm/) | [**English**](https://github.com/ymcui/Chinese-BERT-wwm/blob/master/README_EN.md)
+
 本项目的源链接为：https://github.com/ymcui/Chinese-BERT-wwm
+
 <p align="center">
     <br>
     <img src="./pics/banner.png" width="500"/>
