@@ -1,4 +1,4 @@
-# `pke` - python keyphrase extraction（本项目的源网址为：https://github.com/boudinfl/pke）
+# `pke` - python keyphrase extraction  本项目的源网址为：https://github.com/boudinfl/pke
 
 `pke` is an **open source** python-based **keyphrase extraction** toolkit. It
 provides an end-to-end keyphrase extraction pipeline in which each component can
