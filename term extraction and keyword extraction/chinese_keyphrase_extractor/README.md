@@ -1,4 +1,5 @@
 # chinese_keyphrase_extractor (CKPE)
+本项目的源链接为：https://github.com/dongrixinyu/chinese_keyphrase_extractor
 
 一个从 **中文自然语言文本**  中抽取 **关键短语** 的工具，只消耗 **35M** 内存   
 A tool for automatic **keyphrase extraction** from **Chinese** text.
