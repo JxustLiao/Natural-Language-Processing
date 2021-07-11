@@ -12,6 +12,10 @@ Basic knowledge of natural language processing, including Chinese word segmentat
 
 
 ## 机器学习
+### 西瓜书
+[Uploading 周志华-机器学习_.pdf…]()
+
+
 ### 南瓜书
 南瓜书是对周志华老师的西瓜书里公式的细致讲解
 
