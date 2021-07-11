@@ -13,7 +13,7 @@ Basic knowledge of natural language processing, including Chinese word segmentat
 
 ## 机器学习
 ### 西瓜书
-
+PDF版百度云链接：链接: https://pan.baidu.com/s/1Tbwt2HqETIDpGvhJsJAoNA 提取码: tj23 
 
 
 ### 南瓜书
