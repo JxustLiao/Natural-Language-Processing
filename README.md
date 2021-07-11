@@ -13,6 +13,9 @@ Basic knowledge of natural language processing, including Chinese word segmentat
 ## 机器学习
 ### 南瓜书
 南瓜书是对周志华老师的西瓜书里公式的细致讲解
+
 在线阅读（内容实时更新）：https://datawhalechina.github.io/pumpkin-book
+
 最新版PDF下载：https://github.com/datawhalechina/pumpkin-book/releases
+
 配套视频教程：https://www.bilibili.com/video/BV1Mh411e7VU
