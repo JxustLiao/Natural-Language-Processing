@@ -10,9 +10,12 @@ Basic knowledge of natural language processing, including Chinese word segmentat
 ### 专利
 百度云网盘链接：链接: https://pan.baidu.com/s/1ZWUjw7_bvCuE-88K1j05mQ 提取码: 6zm7 
 
+
 ## 机器学习
 ### 南瓜书
 南瓜书是对周志华老师的西瓜书里公式的细致讲解
+
+Github：https://github.com/datawhalechina/pumpkin-book/tree/master/docs
 
 在线阅读（内容实时更新）：https://datawhalechina.github.io/pumpkin-book
 
