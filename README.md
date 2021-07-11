@@ -13,7 +13,7 @@ Basic knowledge of natural language processing, including Chinese word segmentat
 
 ## 机器学习
 ### 西瓜书
-[Uploading 周志华-机器学习_.pdf…]()
+
 
 
 ### 南瓜书
