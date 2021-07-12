@@ -9,3 +9,9 @@ github链接：https://github.com/sloria/TextBlob
 anaGo是一个用于序列标记（NER、PoS 标记等）的 Python 库，在Keras中实现.
 
 github链接：https://github.com/Hironsan/anago
+
+
+## zh-NER-TF
+用于中文命名实体识别的简单 BiLSTM-CRF 模型
+
+github链接：https://github.com/Determined22/zh-NER-TF
