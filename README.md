@@ -45,4 +45,7 @@ Github：https://github.com/datawhalechina/pumpkin-book/tree/master/docs
 
 github链接：https://github.com/hankcs/HanLP
 
+### funNLP
+(中文NLP资源库)
 
+github链接：https://github.com/fighting41love/funNLP
