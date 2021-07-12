@@ -37,3 +37,12 @@ Github：https://github.com/datawhalechina/pumpkin-book/tree/master/docs
 深度学习500问：https://github.com/scutan90/DeepLearning-500-questions
 
 深度学习模型：https://github.com/rasbt/deeplearning-models
+
+## 常用工具
+
+### HanLP
+（包含中文分词 词性标注 命名实体识别 依存句法分析 语义依存分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理）
+
+github链接：https://github.com/hankcs/HanLP
+
+
