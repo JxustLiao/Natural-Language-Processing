@@ -36,3 +36,4 @@ Github：https://github.com/datawhalechina/pumpkin-book/tree/master/docs
 
 深度学习500问：https://github.com/scutan90/DeepLearning-500-questions
 
+深度学习模型：https://github.com/rasbt/deeplearning-models
