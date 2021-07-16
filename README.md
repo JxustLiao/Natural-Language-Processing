@@ -38,6 +38,10 @@ Github：https://github.com/datawhalechina/pumpkin-book/tree/master/docs
 
 深度学习模型：https://github.com/rasbt/deeplearning-models
 
+深度文本匹配：https://github.com/wangle1218/deep_text_matching（利用 tensorflow.keras 深度学习框架实现）
+
+PyTorch版本的MatchZoo，可以帮助大家快速的实现、比较、以及分享最新的文本匹配模型.：https://github.com/NTMC-Community/MatchZoo-py
+
 ## 常用工具
 
 ### HanLP
@@ -49,3 +53,8 @@ github链接：https://github.com/hankcs/HanLP
 (中文NLP资源库)
 
 github链接：https://github.com/fighting41love/funNLP
+
+### ChineseNlpCorpus
+（中文自然语言处理数据集）
+
+github链接：https://github.com/InsaneLife/ChineseNLPCorpus
