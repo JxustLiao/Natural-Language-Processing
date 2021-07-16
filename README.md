@@ -38,7 +38,7 @@ Github：https://github.com/datawhalechina/pumpkin-book/tree/master/docs
 
 深度学习模型：https://github.com/rasbt/deeplearning-models
 
-深度文本匹配：https://github.com/wangle1218/deep_text_matching（利用 tensorflow.keras 深度学习框架实现）
+深度文本匹配：利用 tensorflow.keras 深度学习框架实现：https://github.com/wangle1218/deep_text_matching
 
 PyTorch版本的MatchZoo，可以帮助大家快速的实现、比较、以及分享最新的文本匹配模型.：https://github.com/NTMC-Community/MatchZoo-py
 
