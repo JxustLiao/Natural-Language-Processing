@@ -10,7 +10,6 @@ anaGo是一个用于序列标记（NER、PoS 标记等）的 Python 库，在Ker
 
 github链接：https://github.com/Hironsan/anago
 
-
 ## zh-NER-TF
 用于中文命名实体识别的简单 BiLSTM-CRF 模型
 
@@ -24,3 +23,11 @@ github链接： https://github.com/jiesutd/NCRFpp
 ## CkipTagger ：中文分词、词性标注、命名实体识别
 
 github链接：https://github.com/ckiplab/ckiptagger
+
+## BERT-BiLSTM-CRF-NER ： 基于Tensorflow使用谷歌的BERT模型在BLSTM-CRF模型上进行用于中文命名实体识别的预训练
+
+github链接：https://github.com/macanv/BERT-BiLSTM-CRF-NER
+
+## Snips NLU ：用于从自然语言编写的句子中提取结构化信息
+
+github链接：https://github.com/snipsco/snips-nlu
