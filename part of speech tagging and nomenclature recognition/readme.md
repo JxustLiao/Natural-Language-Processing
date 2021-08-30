@@ -15,3 +15,12 @@ github链接：https://github.com/Hironsan/anago
 用于中文命名实体识别的简单 BiLSTM-CRF 模型
 
 github链接：https://github.com/Determined22/zh-NER-TF
+
+## NCRF++：开源神经序列标记工具包
+易于用于任何序列标记任务（例如 NER、POS、Segmentation）它包括字符 LSTM/CNN、单词 LSTM/CNN 和 softmax/CRF 组件.
+
+github链接： https://github.com/jiesutd/NCRFpp
+
+## CkipTagger ：中文分词、词性标注、命名实体识别
+
+github链接：https://github.com/ckiplab/ckiptagger
