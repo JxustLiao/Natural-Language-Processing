@@ -62,3 +62,8 @@ github链接：https://github.com/InsaneLife/ChineseNLPCorpus
 ### Google bert模型
 
 github链接：https://github.com/google-research/bert
+
+### Jiagu 
+（Jiagu使用大规模语料训练而成。将提供中文分词、词性标注、命名实体识别、情感分析、知识图谱关系抽取、关键词抽取、文本摘要、新词发现、情感分析、文本聚类等常用自然语言处理功能）
+
+github链接：https://github.com/ownthink/Jiagu
