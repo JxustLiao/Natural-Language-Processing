@@ -58,3 +58,7 @@ github链接：https://github.com/fighting41love/funNLP
 （中文自然语言处理数据集）
 
 github链接：https://github.com/InsaneLife/ChineseNLPCorpus
+
+### Google bert模型
+
+github链接：https://github.com/google-research/bert
