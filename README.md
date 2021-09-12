@@ -9,6 +9,9 @@ Basic knowledge of natural language processing, including Chinese word segmentat
 百度云网盘链接：链接: https://pan.baidu.com/s/1vO0O9X5ewW8wvcOQZDA3Rw 提取码: fpte 
 ### 专利
 百度云网盘链接：链接: https://pan.baidu.com/s/1ZWUjw7_bvCuE-88K1j05mQ 提取码: 6zm7 
+### 金融科技专利分类（包含在金融科技专利分类项目上所做的工作）
+
+github链接 ：https://github.com/gmihaila/fintech_patents
 
 ## 机器学习
 ### 西瓜书
@@ -41,6 +44,16 @@ Github：https://github.com/datawhalechina/pumpkin-book/tree/master/docs
 深度文本匹配：利用 tensorflow.keras 深度学习框架实现：https://github.com/wangle1218/deep_text_matching
 
 PyTorch版本的MatchZoo，可以帮助大家快速的实现、比较、以及分享最新的文本匹配模型.：https://github.com/NTMC-Community/MatchZoo-py
+
+## 机器学习与深度学习模型
+
+### PC-RNN（循环神经网络）： 论文“Patent Citation Dynamics Modeling via Multi-Attention Recurrent Networks”的官方Pytorch实现”
+
+github链接：https://github.com/TaoranJ/PC-RNN
+
+### NLP-Projects（囊括一些自然语言处理项目的概念与脚本）
+
+github链接：https://github.com/gaoisbest/NLP-Projects
 
 ## 常用工具
 
