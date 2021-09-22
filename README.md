@@ -59,6 +59,8 @@ github链接：https://github.com/gaoisbest/NLP-Projects
 
 github链接：https://github.com/google-research/bert
 
+BERT-related Papers：https://gitee.com/helodoger/BERT-related-papers
+
 ### PaddlePaddle Models
 （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
 
