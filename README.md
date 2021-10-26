@@ -61,6 +61,9 @@ github链接：https://github.com/google-research/bert
 
 BERT-related Papers：https://gitee.com/helodoger/BERT-related-papers
 
+FinBERT（基于 BERT 架构的金融领域预训练语言模型）：https://github.com/valuesimplex/FinBERT
+
+
 ### PaddlePaddle Models
 （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
 
