@@ -68,7 +68,7 @@ FinBERT（基于 BERT 架构的金融领域预训练语言模型）：https://gi
 
 github链接：https://github.com/PaddlePaddle/models
 
-### nlp_paper_study（NLP领域相关概念、论文与模型）： https://github.com/km1994/nlp_paper_study
+### [nlp_paper_study（NLP领域相关概念、论文与模型）]( https://github.com/km1994/nlp_paper_study)
 
 ## 常用工具
 
