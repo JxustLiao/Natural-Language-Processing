@@ -47,6 +47,10 @@ Github：https://github.com/datawhalechina/pumpkin-book/tree/master/docs
 
 ## 深度学习
 
+李沐《动手学深度学习》：https://courses.d2l.ai/zh-v2/
+
+李宏毅2021春机器学习课程：https://www.bilibili.com/video/BV1Wv411h7kN
+
 深度学习入门：https://github.com/Mikoto10032/DeepLearning
 
 深度学习课本中文翻译：https://github.com/exacity/deeplearningbook-chinese
