@@ -14,13 +14,13 @@ Basic knowledge of natural language processing, including Chinese word segmentat
 github链接 ：https://github.com/gmihaila/fintech_patents
 
 ## 数学
-
+### 矩阵论
 ### [矩阵论视频](https://www.bilibili.com/video/BV16E411D7R8?from=search&seid=6129772946481224097&spm_id_from=333.337.0.0)
 
 ### [矩阵论视频](https://www.bilibili.com/video/BV1Mt411k7Rq?p=1)
 
 ### [矩阵论笔记](https://blog.csdn.net/mounty_fsc/article/details/51588794)
-
+### 线性代数
 ### [线性代数视频](https://www.bilibili.com/video/BV1aW411Q7x1?from=search&seid=16129392790501534088&spm_id_from=333.337.0.0)
 
 ### [线性代数视频](https://www.bilibili.com/video/BV1fv411y7YY?from=search&seid=16129392790501534088&spm_id_from=333.337.0.0)
