@@ -15,7 +15,7 @@ github链接 ：https://github.com/gmihaila/fintech_patents
 
 ## 数学
 ### 矩阵论
-### [矩阵论视频](https://www.bilibili.com/video/BV16E411D7R8?from=search&seid=6129772946481224097&spm_id_from=333.337.0.0)
+### [矩阵论视频](https://www.bilibili.com/video/BV16E411D7R8?from=search&seid=6129772946481224097&spm_id_from=333.337.0.0)  [矩阵论视频](https://www.bilibili.com/video/BV1Mt411k7Rq?p=1)
 
 ### [矩阵论视频](https://www.bilibili.com/video/BV1Mt411k7Rq?p=1)
 
