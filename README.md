@@ -13,6 +13,21 @@ Basic knowledge of natural language processing, including Chinese word segmentat
 
 github链接 ：https://github.com/gmihaila/fintech_patents
 
+## 数学
+### [矩阵论视频]（https://www.bilibili.com/video/BV16E411D7R8?from=search&seid=6129772946481224097&spm_id_from=333.337.0.0）
+
+### [矩阵论视频]（https://www.bilibili.com/video/BV1Mt411k7Rq?p=1）
+
+### [矩阵论笔记]（https://blog.csdn.net/mounty_fsc/article/details/51588794）
+
+### [线性代数视频]（https://www.bilibili.com/video/BV1aW411Q7x1?from=search&seid=16129392790501534088&spm_id_from=333.337.0.0）
+
+### [线性代数视频]（https://www.bilibili.com/video/BV1fv411y7YY?from=search&seid=16129392790501534088&spm_id_from=333.337.0.0）
+
+### [线性代数笔记]（https://blog.csdn.net/gdymind/article/details/80466465?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522163482518516780265422578%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=163482518516780265422578&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-1-80466465.pc_search_ecpm_flag&utm_term=%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E7%AC%94%E8%AE%B0%E3%80%81&spm=1018.2226.3001.4187）
+
+### [含有概率、线性代数、矩阵论等众多笔记]（https://www.cnblogs.com/bigmonkey/default.html?page=1）
+
 ## 机器学习
 ### 西瓜书
 PDF版百度云链接：链接: https://pan.baidu.com/s/1Tbwt2HqETIDpGvhJsJAoNA 提取码: tj23 
