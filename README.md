@@ -122,3 +122,8 @@ github链接：https://github.com/ownthink/Jiagu
 github链接（源链接，支持python2）：https://github.com/jiesutd/YEDDA
 
 github链接（修改后，支持python3）：https://github.com/Freeshman/YEDDA
+
+### 情感分析（Sentiment Analysis）
+
+基于分层句法和词汇图卷积的方面级情感分析：https://github.com/NLPWM-WHU/BiGCN
+基于方面的情感分析，使用PyTorch实现 ：https://github.com/songyouwei/ABSA-PyTorch
