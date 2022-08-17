@@ -123,7 +123,19 @@ github链接（源链接，支持python2）：https://github.com/jiesutd/YEDDA
 
 github链接（修改后，支持python3）：https://github.com/Freeshman/YEDDA
 
-### 情感分析（Sentiment Analysis）
+## 情感分析（Sentiment Analysis）
 
 基于分层句法和词汇图卷积的方面级情感分析：https://github.com/NLPWM-WHU/BiGCN
 基于方面的情感分析，使用PyTorch实现 ：https://github.com/songyouwei/ABSA-PyTorch
+https://github.com/wkk-nlp?tab=repositories
+
+
+## 命名实体识别（Named-Entity Recognition）
+
+NLP数据集： https://github.com/liucongg/NLPDataSet
+（包括中文摘要数据集、中文片段抽取式阅读理解数据集（QA）、中文文本相似度数据集和中文NER数据集）
+
+中文命名实体识别 ： https://github.com/taishan1994/awesome-chinese-ner
+（包括综述，顶会论文，数据集，NER工具等）
+
+
