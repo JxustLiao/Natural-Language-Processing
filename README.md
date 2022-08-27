@@ -133,7 +133,7 @@ github链接（修改后，支持python3）：https://github.com/Freeshman/YEDDA
 
 ### 扩展包
 
-python扩展包 ： https://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy
+python扩展包 ： https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 清华镜像：https://pypi.tuna.tsinghua.edu.cn/simple/
 
