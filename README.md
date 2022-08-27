@@ -83,6 +83,8 @@ BERT-related Papers：https://gitee.com/helodoger/BERT-related-papers
 
 FinBERT（基于 BERT 架构的金融领域预训练语言模型）：https://github.com/valuesimplex/FinBERT
 
+Hugging Face（各种预训练模型的pytorch版本）：https://huggingface.co/docs/transformers/index
+
 ### PaddlePaddle Models
 （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
 
@@ -103,9 +105,10 @@ github链接：https://github.com/hankcs/HanLP
 github链接：https://github.com/fighting41love/funNLP
 
 ### ChineseNlpCorpus
-（中文自然语言处理数据集）
 
-github链接：https://github.com/InsaneLife/ChineseNLPCorpus
+中文自然语言处理数据集：https://github.com/InsaneLife/ChineseNLPCorpus
+
+中文命名实体识别数据集：https://zhuanlan.zhihu.com/p/529541521
 
 ### 中文金融情感词典
 
@@ -128,6 +131,14 @@ github链接（源链接，支持python2）：https://github.com/jiesutd/YEDDA
 
 github链接（修改后，支持python3）：https://github.com/Freeshman/YEDDA
 
+### 扩展包
+
+python扩展包 ： https://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy
+
+清华镜像：https://pypi.tuna.tsinghua.edu.cn/simple/
+
+阿里镜像：http://mirrors.aliyun.com/pypi/simple/
+
 ## 情感分析（Sentiment Analysis）
 
 基于分层句法和词汇图卷积的方面级情感分析：https://github.com/NLPWM-WHU/BiGCN
@@ -143,3 +154,6 @@ NLP数据集： https://github.com/liucongg/NLPDataSet
 中文命名实体识别 ： https://github.com/taishan1994/awesome-chinese-ner
 （包括综述，顶会论文，数据集，NER工具等）
 
+ACL顶会论文：https://aclanthology.org/
+
+谷歌学术镜像：https://ac.scmor.com/
