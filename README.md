@@ -111,6 +111,11 @@ github链接：https://github.com/InsaneLife/ChineseNLPCorpus
 
 github链接：https://github.com/MengLingchao/Chinese_financial_sentiment_dictionary
 
+### 金融领域NLP
+（包括市场分析、风险管理、资产管理等）
+
+github链接：https://github.com/icoxfog417/awesome-financial-nlp
+
 ### Jiagu 
 （Jiagu使用大规模语料训练而成。将提供中文分词、词性标注、命名实体识别、情感分析、知识图谱关系抽取、关键词抽取、文本摘要、新词发现、情感分析、文本聚类等常用自然语言处理功能）
 
@@ -137,5 +142,4 @@ NLP数据集： https://github.com/liucongg/NLPDataSet
 
 中文命名实体识别 ： https://github.com/taishan1994/awesome-chinese-ner
 （包括综述，顶会论文，数据集，NER工具等）
-
 
